@@ -5,5 +5,6 @@
 
 ###### This is the smallest header
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 This file allows me to test out the markdown features
