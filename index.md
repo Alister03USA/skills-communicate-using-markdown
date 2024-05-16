@@ -2,6 +2,12 @@
 
 ## This is the second largest header
 
+``` javascript
+var myVar = "Hello, world!";
+```
+```python
+int num = 21
+```
 
 ###### This is the smallest header
 
